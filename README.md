@@ -47,8 +47,6 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ****
-[![oabdalla's 42 stats](https://badge42.herokuapp.com/api/stats/oabdalla)](https://github.com/JaeSeoKim/badge42)
-****
 <br/>
 
 <a href="https://github.com/0x0M4R">
