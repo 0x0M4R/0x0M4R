@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 <h3>Hi 👋 &nbsp;  I'm Omar!  :man:</h3>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me : 
  [![Linkedin: SEU NOME](https://img.shields.io/badge/-omarabdalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abdalla-621093107/)](https://www.linkedin.com/in/omar-abdalla-621093107/)  [![Gmail Badge](https://img.shields.io/badge/-omar.abdalla123@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:omar.abdalla123@gmail.com)](mailto:omar.abdalla123@gmail.com)
-- ⚡ Fun fact: ...
+
 
 <h3> :rocket: &nbsp;Skills </h3>
 
@@ -37,16 +35,7 @@ Here are some ideas to get you started:
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
-**Utilites:**
 
-  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-****
 <br/>
 
 <a href="https://github.com/0x0M4R">
