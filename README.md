@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h3>Hi 👋 &nbsp;  I'm Omar!  :man:</h3>
-
-- 📫 How to reach me : 
  [![Linkedin: SEU NOME](https://img.shields.io/badge/-omarabdalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abdalla-621093107/)](https://www.linkedin.com/in/omar-abdalla-621093107/)  [![Gmail Badge](https://img.shields.io/badge/-omar.abdalla123@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:omar.abdalla123@gmail.com)](mailto:omar.abdalla123@gmail.com)
 
 
